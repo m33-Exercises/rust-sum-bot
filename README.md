@@ -1,6 +1,6 @@
 # rust-sum-bot
 
-![rustsumbot-snap](https://imgur.com/a/jXAFgbC)
+![rustsumbot-snap](https://imgur.com/a/jXAFgbC.jpg)
 
 This is a simple command line program that accepts two inputs and adds them together. It is also probably my first functional Rust project :satisfied:. Among other things, the sum bot:
 
