@@ -30,6 +30,9 @@ fn main() {
         // Clear screen
         print!("{}[2J", 27 as char);
 
+        // Introduce game
+        println!("Greetings, O Curious One! Care to spare a few numeric inputs for a humble bot? I promise, it will be worth your while.");
+
         // Get first input
         println!("");
         print!("Input A: ");
